@@ -1,0 +1,199 @@
+.container_pag{
+    background-color: #d5d5d5;
+    margin-top: 60px;
+    padding: 10px;
+}
+
+.header_main{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    align-items: center;
+}
+
+.link_pag{
+    color: #808080;
+}
+
+.link_pag{
+    text-decoration: none;
+}
+
+.title_pag{
+    background-color: white;
+    color: orange;
+    padding: 15px;
+}
+
+.img_win{
+    display: flex;
+    height:350px;
+}
+
+.img1{
+    width: 240px;
+    margin-right: 10px;
+    border: black solid 1px;
+    padding: 2px;
+}
+
+.izq_win{
+    background-color: white;
+    padding: 20px;
+    margin: 0 0 0 40px;
+}
+
+.window{
+    display: flex;
+    margin: 0 auto 0 auto;
+}
+
+.icons{
+    margin-top: 20px;
+}
+
+.share{
+    margin-left: 570px;
+}
+
+.der_win{
+    background-color: white;
+    margin-left: 20px;
+    padding: 20px;
+    line-height: 40px;
+    width: 100%;
+    margin-right: 40px;
+}
+
+li{
+    list-style: none;
+}
+
+.sino{
+    background-color: white;
+    margin: 40px;
+    padding: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.arriba{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 20px;
+    
+}
+.central{
+    width: 1000px;
+    padding: 40px;
+    display: flex;
+}
+.imagen{
+    width: 250px;
+}
+.imagen2{
+    width: 500px;
+}
+.izquierda{
+    display: flex;
+}
+.derecha{
+    
+    
+}
+.derecha ul{
+    list-style: none;
+}
+.derecha li{
+    margin: 0px 10px 10px;
+}
+main{
+    font-family: 'Roboto', sans-serif;
+}
+.sinopsis{
+    color: #808080;
+}
+.arriba a{
+    text-decoration: none;
+    color: #808080;
+}
+*/
